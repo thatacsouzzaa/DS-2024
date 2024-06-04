@@ -1,0 +1,15 @@
+1 - Qual é a principal característica do Zorin OS em comparação com outros sistemas operacionais Linux?
+a) É exclusivamente baseado no KDE.
+b) É projetado para ser semelhante ao Windows e facilitar a transição para usuários de Windows.
+c) É a única distribuição Linux paga.
+d) Não suporta aplicativos de código aberto.
+Resposta correta: b)
+2 - O Zorin OS usa o sistema de arquivos ext4, que suporta journaling, ajudando a evitar a corrupção de dados em caso de falhas no sistema.
+a) Verdadeiro
+b) Falso
+3 - Qual recurso do Zorin OS ajuda na instalação e gerenciamento de aplicativos?
+a) Zorin App Marketplace
+b) Ubuntu Software Center
+c) Zorin Software
+d) GNOME Software
+Resposta correta: d)
